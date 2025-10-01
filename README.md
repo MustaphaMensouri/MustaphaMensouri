@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustaphamansouri&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mustaphamansouri?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=MustaphaMensouri&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MustaphaMensouri?label=Followers&style=social" alt="followers" />
 </p>
 
 ## 🚀 About Me
