@@ -51,15 +51,11 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 ---
 
 ## 📊 GitHub Statistics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tundephilps&show_icons=true&locale=en&layout=compact" alt="tundephilps" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustaphaMansouri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustaphaMansouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" height="170"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tundephilps&show_icons=true&locale=en" alt="tundephilps" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphamansouri&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tundephilps&" alt="tundephilps" /></p>
 
 ---
 
