@@ -50,11 +50,11 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 ---
 
 ## 📊 GitHub Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tundephilps&show_icons=true&locale=en&layout=compact" alt="tundephilps" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustaphaMensouri&show_icons=true&locale=en&layout=compact" alt="MustaphaMensouri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tundephilps&show_icons=true&locale=en" alt="tundephilps" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MustaphaMensouri&show_icons=true&locale=en" alt="MustaphaMensouri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tundephilps&" alt="tundephilps" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MustaphaMensouri&" alt="MustaphaMensouri" /></p>
 
 ---
 
