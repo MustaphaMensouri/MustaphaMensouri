@@ -58,7 +58,10 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MustaphaMensouri&" alt="MustaphaMensouri" /></p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## My Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/MustaphaMensouri/MustaphaMensouri/output/github-contribution-grid-snake.svg)
 
 ---
 
