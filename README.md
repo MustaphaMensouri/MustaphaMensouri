@@ -57,19 +57,11 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MustaphaMensouri&" alt="MustaphaMensouri" /></p>
 
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MustaphaMensouri&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Contribution Snake
 
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MustaphaMensouri/MustaphaMensouri/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MustaphaMensouri/MustaphaMensouri/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MustaphaMensouri/MustaphaMensouri/output/github-contribution-grid-snake.svg">
-
-</picture>
+![Snake Animation](https://raw.githubusercontent.com/MustaphaMensouri/MustaphaMensouri/output/github-contribution-grid-snake.svg)
 
 ---
 
