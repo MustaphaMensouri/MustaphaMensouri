@@ -59,7 +59,7 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=MustaphaMensouri&show_icons=true&theme=transparent)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MustaphaMensouri&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Your Stats](https://github-readme-stats-fast.vercel.app/api?username=MustaphaMensouri&show_icons=true&theme=transparent)
 
 ## My Contribution Snake
 
