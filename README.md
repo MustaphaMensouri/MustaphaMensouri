@@ -47,6 +47,7 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
+
 ---
 
 ## 📊 GitHub Statistics
@@ -55,6 +56,9 @@ I'm an **AI Specialist and Researcher** passionate about building intelligent sy
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MustaphaMensouri&show_icons=true&locale=en" alt="MustaphaMensouri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MustaphaMensouri&" alt="MustaphaMensouri" /></p>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
